@@ -9,7 +9,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# serve with hot reload at localhost:8080
+# test case with jest along with coverage
 npm run test
 
 # build for production with minification
